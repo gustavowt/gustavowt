@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a passionate Ruby on Rails developer working as Staff Engineer at TrustedHealth.<br><br>
+Hi, I'm a passionate Ruby on Rails developer working as Staff Engineer at Koala.<br><br>
 
 
 ## 🌐 Socials:
